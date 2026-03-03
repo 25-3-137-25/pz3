@@ -1,0 +1,4 @@
+'host': 'mysql.65e3ab49565f.hosting.myjino.ru',
+            'user': 'j30084097_137',
+            'password': 'Gruppa137',
+            'database': 'j30084097_137',

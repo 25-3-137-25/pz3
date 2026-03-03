@@ -4,10 +4,10 @@ from mysql.connector import Error
 class DatabaseManager:
     def __init__(self, config: dict = None):
         self.config = config or {
-            'host': 'mysql.65e3ab49565f.hosting.myjino.ru',
-            'user': 'j30084097_137',
-            'password': 'Gruppa137',
-            'database': 'j30084097_137',
+            'host': 'idk',
+            'user': 'idk',
+            'password': 'idk',
+            'database': 'idk',
             'connection_timeout': 900,
         }
         self.connection = None
